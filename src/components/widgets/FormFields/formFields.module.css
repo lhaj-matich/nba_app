@@ -1,0 +1,16 @@
+.inputText {
+  background-color: #ccc;
+  border: none;
+  border-radius: 50px;
+}
+
+.inputText:focus {
+  outline: none;
+}
+
+.labelError {
+  color: #ff5722;
+  font-weight: 500;
+  margin-top: 5px;
+  padding: 5px;
+}

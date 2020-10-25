@@ -1,0 +1,16 @@
+.footer {
+  background: #242424;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo img {
+  height: 25px;
+  padding: 10px;
+}
+
+.right {
+  color: #f1f1f1;
+  font-size: 14px;
+}

@@ -1,0 +1,25 @@
+.option {
+  font-weight: 300;
+  font-size: 20px;
+  color: #bababa;
+  padding: 15px;
+  border-top: 1px solid #404040;
+}
+
+.option:hover {
+  cursor: pointer;
+}
+
+.option:hover a {
+  color: #fff;
+}
+
+.option a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.option span {
+  color: white;
+  margin-right: 10px;
+}
